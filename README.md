@@ -2,6 +2,7 @@
 
 flight lines format string and output it by nice way like this
 <br/>
+<br/>
        Delayed Departure FAO TXL (11h25)
        <br/>
                  Arrival BRU FAO (11h45)
